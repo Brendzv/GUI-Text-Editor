@@ -1,9 +1,6 @@
-
-from ast import Lambda
 from cgitb import text
-from distutils import command
 import tkinter as tk
-from tkinter import Canvas, Frame, Menu, Scrollbar, Tk, ttk, filedialog
+from tkinter import Frame, Menu, Tk, filedialog
 
 #functions
 def themeModifier():
